@@ -1,3 +1,4 @@
+<?php
 <html class="no-js" lang="">
 <link href="images/Barkerbaggies-Bag-O-Tiles-R.ico" rel="shortcut icon" />
 <head>
